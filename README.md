@@ -1,6 +1,7 @@
 ### Freecodecamp Survey Project
 
 This is a survey  I created as a project for the Freecodecamp front-end certification.
+Live page at: https://niouraki.github.io/freecodecamp-survey/
 
 ## User stories I had to pass
 
